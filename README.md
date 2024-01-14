@@ -1,0 +1,1 @@
+These documents are the excerises I'm completing to learn creative coding + computational art. Original series: https://github.com/sudhanchitgopkar/Code-The-Universe/blob/main/lecture2/code/BallBounce/BallBounce.pde
